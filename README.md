@@ -8,6 +8,7 @@ Following is the list of  web development projects. You can find the repository 
 - [Museum of Candy](https://github.com/adeeba653/Museum-of-Candy)
 - [pricing Panel](https://github.com/adeeba653/Pricing-Panel)
 - [Score Keeper](https://github.com/adeeba653/Score_Keeper)
+- [Calculator](https://github.com/adeeba653/calculator)
 - [Recipe Finder](https://adeeba653.github.io/Recipe-Finder/)
 - [To-Do App](https://adeeba653.github.io/To-Do-App/)
    
