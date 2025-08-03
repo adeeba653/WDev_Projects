@@ -11,6 +11,6 @@ Following is the list of  web development projects. You can find the repository 
 - [Score Keeper 2](https://adeeba653.github.io/ScoreKeeper/)
 - [Calculator](https://adeeba653.github.io/Calculator/)
 - [TV Show Search App](https://adeeba653.github.io/tvShowSearch/)
-- [Recipe Finder](https://adeeba653.github.io/Recipe-Finder/)
+- [Recipe Finder v-1](https://adeeba653.github.io/Recipe-Finder/)
 - [To-Do App](https://adeeba653.github.io/To-Do-App/)
    
